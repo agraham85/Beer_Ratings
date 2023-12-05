@@ -91,9 +91,8 @@ and Palate have the most impact followed by Aroma then Appearance. The
 Spearman Correlation was also used and produced similar results.
 
 ![Chart, treemap chart Description automatically
-generated](./image2.png){width="1.6956528871391077in"
-height="1.361159230096238in"}![](./image3.png){width="1.9210334645669291in"
-height="1.28209208223972in"}
+generated](./image2.png =125x160)
+![](./image3.png =120x180)
 
 ***Aggregating Reviews***
 
@@ -108,9 +107,7 @@ uncertainty of a small number of observations. In this context, scores
 equal to or greater than 3 are considered positive.
 
 ![A picture containing text Description automatically
-generated](./image4.png){width="1.852173009623797in"
-height="0.6774420384951881in"}
-
+generated](./image4.png =65x170)
 ***Grouping Reviews***
 
 When grouping the reviews by beers. One interesting result is the number
@@ -120,8 +117,7 @@ an enthusiast site and people are more like to rate beers they like
 versus ones the don't.
 
 ![Chart, scatter chart Description automatically
-generated](./image5.png){width="2.323134295713036in"
-height="1.6334536307961505in"}
+generated](./image5.png =160x220 )
 
 **Clustering**
 
@@ -143,11 +139,10 @@ From this we can use groups 2 and 3 as representative of more well-known
 beers and less well known beers in recommendation systems.
 
 ![Chart, line chart Description automatically
-generated](./image6.png){width="1.851428258967629in"
-height="1.126956474190726in"}![Chart, scatter chart Description
+generated](./image6.png =110x170)
+![Chart, scatter chart Description
 automatically
-generated](./image7.png){width="1.7737751531058619in"
-height="1.1738221784776903in"}
+generated](./image7.png =110x170)
 
 **Recommendation Models**
 
@@ -174,8 +169,7 @@ group. So that the user can choose from more well known and less well
 known beers.
 
 ![Graphical user interface, text Description automatically
-generated](./image8.png){width="6.5in"
-height="1.667361111111111in"}
+generated](./image8.png =160x625 )
 
 **Collaborative Filtering Model**
 
@@ -198,8 +192,7 @@ user\'s preferences are not well understood. If a user likes Shiner
 Bock, they may also like:
 
 ![Graphical user interface, text Description automatically
-generated](./image9.png){width="6.5in"
-height="1.1118055555555555in"}
+generated](./image9.png =105x625)
 
 **ALS Recommendation System**
 
