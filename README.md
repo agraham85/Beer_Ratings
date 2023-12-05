@@ -1,15 +1,4 @@
-**Beer Preference Trends: Recommendations and Analysis**
-
-**Midterm**
-
 Andrew Graham
-
-Ritchie School of Engineering and Computer Science, University of Denver
-
-COMP 444: Data Science Capstone
-
-Prof. Claudio Delrieux
-
 February 3, 2023
 
 **Beer Preference Trends: Recommendations and Analysis**
@@ -94,8 +83,7 @@ indicating a bias of users reviewing mostly beers they liked versus ones
 they did not. All are on the 0-5 scale with the exceptions of Aroma,
 Taste, and Palate, which were 1-5
 
-![](./image1.png){width="3.4260870516185475in"
-height="1.726013779527559in"}
+![](./image1.png =150x300)
 
 In determining the relation between the individual and overall scores, a
 correlation analysis was done. The Pearson Correlation showed that Taste
