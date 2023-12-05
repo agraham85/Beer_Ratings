@@ -90,9 +90,9 @@ correlation analysis was done. The Pearson Correlation showed that Taste
 and Palate have the most impact followed by Aroma then Appearance. The
 Spearman Correlation was also used and produced similar results.
 
-![Chart, treemap chart Description automatically
-generated](./image2.png =125x160)
-![](./image3.png =120x180)
+
+<img src="./image2.png" width="160" height="125" />
+<img src="./image3.png" width="180" height="120" />
 
 ***Aggregating Reviews***
 
